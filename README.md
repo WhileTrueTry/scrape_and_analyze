@@ -1,4 +1,4 @@
-# Scrap & Analyze: Wrapper para Análisis de Contenido Web usando scrawl4AI y la API gratuita de Groq
+# Scrap & Analyze: Herramienta para el análisis de contenido web
 
 Este repositorio contiene un script de Python para automatizar el proceso de _scraping_ de sitios web y el análisis de su contenido mediante Grandes Modelos de Lenguaje (LLMs). Utiliza una estrategia MapReduce para procesar grandes volúmenes de texto, garantizando un análisis profundo y coherente incluso en sitios con mucho contenido.
 
