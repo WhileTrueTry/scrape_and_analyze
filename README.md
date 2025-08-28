@@ -4,8 +4,8 @@ Este repositorio contiene un script de Python para automatizar el proceso de _sc
 
 El sistema es resistente a fallos, con reintentos inteligentes y rotación automática de modelos LLM para maximizar la tasa de éxito.
 Esta herramienta se basa en las utilidades ofrecidas por la librería crawl4AI y el servicio de Groq Cloud, que ofrece acceso a LLMs de código abierto en la nube mediante una API gratuita, o utilizando planes de pago.
-[Página web de Crawl4AI](https://docs.crawl4ai.com/)
-[Página web de Groq Cloud](https://console.groq.com/home)
+- [Página web de Crawl4AI](https://docs.crawl4ai.com/)
+- [Página web de Groq Cloud](https://console.groq.com/home)
 
 ## ✨ Características Principales
 
