@@ -1,0 +1,6 @@
+crawl4ai
+bs4
+python-dotenv
+tiktoken
+langchain-groq
+langchain
