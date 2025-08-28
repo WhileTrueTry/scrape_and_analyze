@@ -222,6 +222,7 @@ analyzer = ScrapAndAnalyze(
 - Comunidad de Python por las increíbles herramientas disponibles
 - [Groq Cloud](https://console.groq.com/home)
 - [Langchain](https://www.langchain.com/)
+- Comunidad de Python por las increíbles herramientas disponibles
 
 
 ⭐ Si este proyecto te fue útil, ¡considera darle una estrella en GitHub!
