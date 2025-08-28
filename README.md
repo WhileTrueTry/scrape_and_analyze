@@ -219,7 +219,6 @@ analyzer = ScrapAndAnalyze(
 
 - [crawl4ai](https://github.com/unclecode/crawl4ai) - La librería principal de web crawling
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - Para el parsing de HTML
-- Comunidad de Python por las increíbles herramientas disponibles
 - [Groq Cloud](https://console.groq.com/home)
 - [Langchain](https://www.langchain.com/)
 - Comunidad de Python por las increíbles herramientas disponibles
